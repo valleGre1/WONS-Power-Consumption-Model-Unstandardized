@@ -189,3 +189,14 @@
 | LTE700       |       0           |        0.00136021 |      2.29787e-08 |                0 | 0.186885   |       0           | -0.144576   |
 | LTE2600      |       0.000777225 |        0.0022787  |      0           |                0 | 0.00528447 |       0           |  0.0192469  |
 | NR3700       |       0.0045106   |        0.00616799 |      0           |                0 | 0          |       0           |  0.136548   |
+
+
+## Unit of measurement of the different features
+RB<sub>DL</sub>: % <br>
+RB<sub>UL</sub>: % <br>
+V<sub>DL</sub> : kbyte <br>
+V<sub>UL</sub> : kbyte <br>
+A: linear power ratio $10^{\frac{dB}{10}}$ <br>
+P<sub>Max</sub>: dBm <br>
+Power Demand: kW
+
